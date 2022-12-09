@@ -141,7 +141,7 @@ golem_add_external_resources <- function() {
 ### Sur une ligne
 
 `f` + `lettre` : avancer jusqu'à la lettre
-`F` + `lettre` :
+`F` + `lettre` : reculer jusqu'à la lettre
 
 ### Dans tous le document
 
@@ -166,8 +166,7 @@ Sur tout le fichier :
 
 Se mettre au bout de la ligne puis `80A-Esc` puis `d80|`.
 
-
-#### Mon titre de section
+#### Mon titre de section 
 
 ### Trier par ordre alphabétique
 
