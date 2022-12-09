@@ -81,9 +81,9 @@ ___
 `O` : Début de la ligne précédente
 
 ___
-i
+
 Il manque un point à la fin de cette ligne
-Il manque une majuscule au début de cette ligne.
+il manque une majuscule au début de cette ligne.
 
 Je veux commencer à écrire en dessous.
 
@@ -206,9 +206,16 @@ vim .
 * Avec Rstudio: Global Options > Code > Editing > General > Keybindings :
     Choisir vim
 
-## Il n'ya pas un vim chaque personne à son propre vim
+## Il n'y a pas un vim chaque personne à son propre vim
 
 Voir .vimrc
+
+Il existe un système de plugin pour Vim.
+
+Un des plus connus: https://github.com/tpope/vim-surround
+
+"Coucou"
+
 
 ## Pour apprendre 
 
